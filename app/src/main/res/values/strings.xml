@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_label">URL Linker</string>
+    <string name="app_name">Simple URL Linker</string>
+
+    <string name="title_reset">Reset</string>
+    <string name="title_save">Save</string>
+    <string name="title_name">NAME :</string>
+    <string name="title_url">ROOT URL :</string>
+    <string name="title_url_hint">URL :</string>
+    <string name="title_url_sample">scheme://host?</string>
+    <string name="title_input">Input</string>
+    <string name="title_query">Query</string>
+    <string name="title_key">Key</string>
+    <string name="title_value">Value</string>
+    <string name="title_url_preview">URL Preview</string>
+
+    <string name="error_invalid_url">유효하지 않은 URL입니다.</string>
+
+    <string name="format_colon">%1$s :</string>
+
+    <string-array name="arrays_link_options">
+        <item>Modify</item>
+        <item>Remove</item>
+    </string-array>
+</resources>
